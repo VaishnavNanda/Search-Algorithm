@@ -117,10 +117,10 @@ else:
 ![GitHub Logo](./1.png)
 
 ### ii)	Find the element in a list using Binary Search(Iterative Method).
-![output](./2.png)
+![GitHub Logo](./2.png)
 
 ### iii) Find the element in a list using Binary Search (recursive Method).
-![output](./3.png)
+![GitHub Logo](./3.png)
 
 
 ## Result
