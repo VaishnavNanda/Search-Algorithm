@@ -111,6 +111,9 @@ else:
     print("Element found at index: ",result)
 
 ```
+
+
+
 ## Sample Input and Output
 
 ### i) Use a linear search method to match the item in a list.
@@ -118,6 +121,9 @@ else:
 
 ### ii)	Find the element in a list using Binary Search(Iterative Method).
 ![GitHub Logo](./2.png)
+
+
+
 
 ### iii) Find the element in a list using Binary Search (recursive Method).
 ![GitHub Logo](./3.png)
